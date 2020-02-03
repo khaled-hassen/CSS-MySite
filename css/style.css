@@ -1,0 +1,150 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+}
+
+h2 {
+    color: #0dceda;
+}
+
+h3, a {
+    color: #11999E;
+}
+
+hr {
+    border: 0;
+    border-top: dotted;
+    width: 4rem;
+    border-width: 0.5rem;
+    border-color: #c6fce5;
+    opacity: 40%;
+}
+
+.top-container {
+    background-color: #ebfffa;
+    margin: 0px;
+    position: relative;
+    padding-top: 140px;
+    line-height: 2;
+}
+
+.bottom-container {
+    margin: 0;
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 40px;
+}
+
+.name {
+    margin: 0 auto;
+    font-size: 6rem;
+    /* 1rem = 1em = 16px dynamic font size */
+    font-family: 'Indie Flower', cursive;
+    color: #0dceda;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.programmer {
+    font-size: 1.5rem;
+    font-family: 'Major Mono Display', monospace;
+    color: #0dceda;
+    font-weight: normal;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 80px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 350px;
+    left: 300px;
+}
+
+.moutain {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.my-img {
+    margin-top: 50px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.code-img {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.gamedev-img {
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row h3 {
+    padding-top: 30px;
+}
+
+.contact-me h2 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+.contact-me h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+.copyrights {
+    color: #EAF6F6;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.footer-link {
+    font-size: 1.1rem;
+    font-weight: bolder;
+    color: #11999E;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.btn {
+    margin-bottom: 50px;
+    background-color: #66bfbf;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 13px 22px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #66bfbf;
+}
+
+.btn:hover {
+    background-color: #0dceda;
+}
